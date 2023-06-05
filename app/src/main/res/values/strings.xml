@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SwitchActivity</string>
+    <string name="scan_button_text">Scan via Bleutooth</string>
+    <string name="scan_view_text">Connectez vous a votre vehicule</string>
+    <string name="app_title">ALARME CARBURANT</string>
+    <string name="splash_sub_title">Realise par</string>
+    <string name="creator_1">DEFFO TATSINKOU</string>
+    <string name="creator_2">NANA TCHAKOUNTE</string>
+    <string name="school_name">IUT FV de Bandjoun</string>
+    <string name="splash_screen_begin_text">Commencez</string>
+</resources>

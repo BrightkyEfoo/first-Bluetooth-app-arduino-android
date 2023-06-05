@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="test" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:textColorHighlight">@color/purple_500</item>
+        <item name="android:textColorLink">@color/material_dynamic_primary50</item>
+    </style>
+</resources>
